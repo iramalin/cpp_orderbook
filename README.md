@@ -1,2 +1,2 @@
 # cpp_orderbook
-A Central Limit Order Book Management
+A Central Limit Order Matching Engine
